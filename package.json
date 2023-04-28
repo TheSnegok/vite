@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1",
+    "vite-plugin-imagemin": "^0.6.1"
+  },
+  "name": "vite",
+  "version": "1.0.0",
+  "main": "src/js/main.js",
+  "license": "MIT",
+  "dependencies": {}
+}
